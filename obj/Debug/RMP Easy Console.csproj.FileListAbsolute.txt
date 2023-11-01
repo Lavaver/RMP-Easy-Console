@@ -1,0 +1,10 @@
+D:\repos\RMP Easy Console\bin\Debug\RMP Easy Console.exe.config
+D:\repos\RMP Easy Console\bin\Debug\RMP Easy Console.exe
+D:\repos\RMP Easy Console\bin\Debug\RMP Easy Console.pdb
+D:\repos\RMP Easy Console\bin\Debug\Newtonsoft.Json.dll
+D:\repos\RMP Easy Console\bin\Debug\Newtonsoft.Json.xml
+D:\repos\RMP Easy Console\obj\Debug\RMP Easy Console.csproj.AssemblyReference.cache
+D:\repos\RMP Easy Console\obj\Debug\RMP Easy Console.csproj.CoreCompileInputs.cache
+D:\repos\RMP Easy Console\obj\Debug\RMP Easy Console.csproj.CopyComplete
+D:\repos\RMP Easy Console\obj\Debug\RMP Easy Console.exe
+D:\repos\RMP Easy Console\obj\Debug\RMP Easy Console.pdb
